@@ -119,10 +119,31 @@
 .article-viewer .article-data .article-content knowledge-article ul b{
     color: #f5bc55!important;
 }
+.article-viewer .article-data .article-content knowledge-article div>span{
+    color: #e7e3e3!important;
+}
 
 /*code*/
 .ht-slds #content code {
     color: #dcdcdc;    
+}
+
+.article-viewer .article-data .article-content getting-started-article div>b, .article-viewer .article-data .article-content getting-started-article div>i, .article-viewer .article-data .article-content getting-started-article div>i>b, .article-viewer .article-data .article-content getting-started-article div>i>b>span, .article-viewer .article-data .article-content getting-started-article div>span, .article-viewer .article-data .article-content getting-started-article div>span>span, .article-viewer .article-data .article-content knowledge-article div>b, .article-viewer .article-data .article-content knowledge-article div>i, .article-viewer .article-data .article-content knowledge-article div>i>b, .article-viewer .article-data .article-content knowledge-article div>i>b>span, .article-viewer .article-data .article-content knowledge-article div>span, .article-viewer .article-data .article-content knowledge-article div>span>span, .article-viewer .article-data .article-content quick-starts div>b, .article-viewer .article-data .article-content quick-starts div>i, .article-viewer .article-data .article-content quick-starts div>i>b, .article-viewer .article-data .article-content quick-starts div>i>b>span, .article-viewer .article-data .article-content quick-starts div>span, .article-viewer .article-data .article-content quick-starts div>span>span {
+    color: #fef49e!important;    
+}
+
+.article-viewer .article-data .article-content knowledge-article h1 b {
+    color: #79b8f5!important;   
+}
+
+.social-icon .dislike, .social-icon .like {    
+    fill: #60dfde;   
+}
+.ht-slds rate-document div.solution-title {
+    color: #accafe;    
+}
+.ht-slds rate-document span.social-icon svg {
+    fill: #cce6ff;    
 }
 }
 
